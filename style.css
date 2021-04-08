@@ -1,0 +1,370 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#main_icon{
+background-color: rgb(94, 94, 226);
+height: 50px;
+margin-top: -8px;
+display: flex;
+width: 100%;
+}
+#icon_div{
+    margin-left: 100px;
+    position: absolute;
+    top: 8px;
+    cursor: pointer;
+}
+i{
+    width: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    color: white;
+}
+#text_div{
+    display: block;
+    margin: auto;
+    margin-left: 452px;
+    margin-top: 16px;
+    font-family: 'Merriweather', serif;
+}
+#button_div{
+    margin-top: 13px;
+    margin-right: 20px;
+    cursor: pointer;
+    font-family: 'Merriweather', serif;
+}
+#logo_img{
+    width: 150px;
+    margin-left: 100px;
+}
+ #div_2{
+    display: flex;
+    position: sticky;
+}
+
+#logo_div{
+    margin-top: 7px;
+}
+#nav_div{
+    margin-left: 70px;
+    font-family: 'Merriweather', serif;
+}
+#nav_div li:hover{
+    background-color: lightgray;
+    border-radius: 20px;
+}
+
+.dropdown_menu a:hover{
+    display: block;
+}
+
+
+#carouselExampleControls{
+    z-index: -1;
+}
+#scrol_div{
+    background-color: rgb(94, 94, 226);
+}
+#intro{
+    text-align: center;
+    margin-top: 45px;
+    color: rgb(94, 94, 226);
+    margin-bottom: 19px;
+    font-family: 'Merriweather', serif;
+}
+#intro span{
+   color: green;
+   margin-left: -8px;
+   font-family: 'Merriweather', serif;
+}
+#round_logo img{
+    height: 51px;
+    width: 56px;
+    margin: auto;
+    display: block;
+}
+#margin{
+    margin-left: 190px;
+    margin-right: 190px;
+    margin-top: 15px;
+    font-family: 'Merriweather', serif;
+}
+#blue{
+    background-color:rgb(94, 94, 226) ;
+    height: 250px;
+    display: flex;
+    margin-bottom: 50px;
+    margin-top: 90px;
+}
+#blue img{
+    height: 30px;
+    width: 30px;
+    margin-left: 35px;
+} 
+.small_div{
+    margin-left: 118px;
+    margin-right: 99px;
+    margin-top: 59px;
+}
+.small_div h1{
+    color: white;
+    font-family: 'Merriweather', serif;
+}
+.small_div h6{
+    color: white;
+    font-family: 'Merriweather', serif;
+}
+.small_div h6 span{
+    color: darkgreen;
+    margin-left: 1px; 
+    font-family: 'Merriweather', serif; 
+} 
+#doing{
+    text-align: center;
+}
+#doing h1{
+    color: rgb(94, 94, 226) ;
+    margin-bottom: 19px;
+    font-family: 'Merriweather', serif;
+}
+#doing h1 span{
+    color: darkgreen;
+    font-family: 'Merriweather', serif;
+}
+#round_logo_2{
+    text-align: center;
+}
+#round_logo_2 img{
+    height: 51px;
+    width: 56px;
+    margin: auto;
+    display: block;
+}
+#foo{
+    display: flex;
+    margin-left: 210px;
+    margin-right: 210px;
+    margin-top: 20px;
+}
+#doo{
+    display: flex;
+    margin-left: 210px;
+    margin-right: 210px;
+}
+.uber{
+    margin: auto;
+    box-shadow: 0px 8px 20px 0px rgb(0 0 0 / 40%);
+    background-color: #fff !important;
+    text-align: center;
+    width: 500px;
+    height: 186px;
+    margin-top: 30px;
+    margin-left: 33px;
+    
+}
+.uber img{
+    margin-top: 20px;
+    cursor: pointer;
+}
+.uber h5{
+    color:rgb(94, 94, 226) ;
+    margin-top: 15px;
+    font-family: 'Merriweather', serif;
+}
+.duber{
+    margin: auto;
+    box-shadow: 0px 8px 20px 0px rgb(0 0 0 / 40%);
+    background-color: #fff !important;
+    text-align: center;
+    width: 500px;
+    height: 186px;
+    margin-top: 30px; 
+    margin-left: 33px;
+}
+.duber img{
+    margin-top: 20px;
+    cursor: pointer;
+}
+.duber h5{
+    color:rgb(94, 94, 226) ;
+    margin-top: 15px;
+    font-family: 'Merriweather', serif;
+}
+#pnga{
+    margin-top: 86px;
+    color: rgb(94, 94, 226) ;
+    margin-left: 90px;
+    font-family: 'Merriweather', serif;
+    
+}
+#st{
+    display: flex;
+    margin-top: 50px;
+}
+#heart{
+    margin-left: 100px;
+    background-color: lightgrey;
+    height: 87px;
+    width: 300px;
+    border: 1px outset grey;
+}
+#heart img{
+    float: left;
+    margin: 30px 27px 23px 23px;
+}
+#heart h4{
+    color:rgb(94, 94, 226) ;
+    margin: 32px 40px 26px 56px;
+    font-family: 'Merriweather', serif;
+}
+#house{
+    margin-left: 35px;
+    background-color: lightgrey;
+    height: 87px;
+    width: 300px;
+    border: 1px outset grey;
+}
+#house img{
+float: left;
+margin: 30px 27px 23px 23px;
+}
+#house h4{
+    color:rgb(94, 94, 226) ;
+    margin: 24px 25px 7px 64px;
+    font-family: 'Merriweather', serif;
+}
+#nd{
+    display: flex;
+    margin-top: 30px;
+}
+#lit{
+    margin-left: 100px;
+    background-color: lightgrey;
+    height: 87px;
+    width: 300px;
+    border: 1px outset grey;
+}
+#lit img{
+    float: left;
+    margin: 30px 27px 23px 23px;
+}
+#lit h4{
+    color:rgb(94, 94, 226) ;
+    margin: 32px 40px 26px 56px;
+    font-family: 'Merriweather', serif;
+}
+#thar{
+    margin-left: 35px;
+    background-color: lightgrey;
+    height: 87px;
+    width: 300px;
+    border: 1px outset grey;
+}
+#thar img{
+    float: left;
+margin: 30px 27px 23px 23px;
+height: 40px;
+width: 40px;
+}
+#thar h4{
+    color:rgb(94, 94, 226) ;
+    margin: 30px 25px 7px 64px;
+    font-family: 'Merriweather', serif;
+}
+#rolling{
+    float: right;
+    height: 50pc;
+    width: 45rem;
+    position: absolute;
+    top: 129rem;
+    left: 53rem;
+    margin-right: 30px ;
+}
+#rolling h1{
+    color:rgb(94, 94, 226) ;
+    font-family: 'Merriweather', serif;
+}
+#rolling hr{
+    width: 23rem;
+}
+#rolling marquee{
+  margin-right: 350px;
+  font-family: 'Merriweather', serif;
+}
+#images{
+    margin-top: 20rem;
+}
+#images h1{
+    text-align: center;
+}
+#logo{
+    margin: auto;
+    display: block;
+}
+#logo img{
+    margin-top: auto;
+    display: block;
+}
+#image{
+    margin-top: 15rem;
+}
+#gal{
+    display: flex;
+    margin-top: 25px;
+}
+#ct img{
+    height: 10pc;
+    width: 16pc;
+    margin-right: 2px;
+}
+#ct{
+    margin-left: 17pc;
+}
+#bla{
+    display: flex;
+    margin-top: 13rem;
+    background-color: lightslategray;
+    height: 350px;
+}
+#one{
+    margin: 95px 10pc 5px 185px;
+    font-family: 'Merriweather', serif;
+}
+#one p{
+    color: white;
+    font-family: 'Merriweather', serif;
+}
+  #two{
+        margin: 50px 3px 31px 0px;
+    }
+    #two h5{
+        color: white;
+        font-family: 'Merriweather', serif;
+    }
+    #two hr{
+        width: 20pc;
+        color: green;
+    }
+    #third{
+        margin: 44px 0px 10px 65px;
+    }
+    #third h5{
+        color: white;
+        font-family: 'Merriweather', serif;
+    }
+    #las{
+        margin: 80px 23px 25px 13px;
+        z-index: 0.89;
+        cursor: pointer;
+    }
+    #footr{
+        background-color: rgb(94, 94, 226);
+        height: 40px;
+        text-align: center;
+    }
+    #footr p{
+       color: white;
+       font-family: 'Merriweather', serif;
+    }
